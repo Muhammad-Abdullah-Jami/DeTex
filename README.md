@@ -98,7 +98,7 @@ Monitor the live feed for detected defects.
 
 Feedback System:
 
-Review detected defects and submit feedback to improve the system.
+Review the detected defects and submit feedback to improve the system.
 
 Review Recent Defects:
 
